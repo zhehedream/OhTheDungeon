@@ -211,7 +211,7 @@ public class Main extends JavaPlugin {
     }
     
     private BukkitRunnable update_check_task_id;
-    private final int RESOURCE_ID = 76437;
+    private final int RESOURCE_ID = 83218;
     private void asyncUpdateChecker() {
         update_check_task_id = new BukkitRunnable() {
             @Override
